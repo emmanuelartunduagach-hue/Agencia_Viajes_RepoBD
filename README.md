@@ -37,16 +37,6 @@ Dependencias necesarias.
 Conexión con MySQL.
 Estructura de carpetas.
 
-La estructura principal del backend quedó organizada en:
-
-src/main/java
- ├── controller
- ├── service
- ├── repository
- ├── model
- ├── dto
- └── security
-
 Cada carpeta cumple una función específica:
 
 controller: recibe las peticiones HTTP.
